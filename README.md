@@ -1,6 +1,9 @@
 # Talking Data: Comparing Favorites
 This mini data analysis project provides a brief analysis of your favorite movie's audience ratings. It calculates how these ratings compare to statistical measures like the mean and median, and includes visualizations such as histograms and scatter plots to illustrate the data.
 
+
+Created under Self Paced Program by Girls Who Code.
+
 ### Key Features
 - Mean and Median Comparison: Discover how the movie's audience rating compares to both the mean and median values in the dataset. This helps you gauge whether the movie is perceived more positively or negatively compared to the average.
 - Histogram of Audience Ratings: Visualize the distribution of audience ratings through a histogram, showing how ratings are spread across different levels.
